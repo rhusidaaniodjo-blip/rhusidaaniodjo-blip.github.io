@@ -30,4 +30,7 @@ Compétences mobilisées
 
 ARP spoofing Kali Linux Wireshark Analyse de trafic réseau IP forwarding Sécurité des protocoles
 
-[Captures d'écran à insérer : table ARP avant/après empoisonnement, capture Wireshark du paquet POST]
+<img width="665" height="633" alt="image" src="https://github.com/user-attachments/assets/40afcddc-e3c8-4e7d-a687-48f58aab0b8f" />
+<img width="755" height="424" alt="image" src="https://github.com/user-attachments/assets/923b09d6-e1cd-4b8c-b692-948231abe641" />
+
+
