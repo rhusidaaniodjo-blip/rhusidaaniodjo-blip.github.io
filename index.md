@@ -13,7 +13,7 @@ Je documente ici mes projets techniques réalisés en formation : sécurité off
 - [Exploitation de vulnérabilités web sur DVWA](projet-dvwa.md) — Sécurité applicative, Burp Suite, DVWA
 - [Configuration d'un pare-feu réseau avec iptables](projet-iptables.md) — iptables, filtrage réseau, Kali Linux
 - *ACL implementation — à venir*
-- *Packet Tracer — à venir*
+- [Segmentation réseau par VLAN sur commutateur Cisco](projet-packet-tracer.md) — Cisco Packet Tracer, VLAN, segmentation réseau
 - *Chiffrement symétrique — à venir*
 - *Projet de management — à venir*
 
