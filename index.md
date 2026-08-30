@@ -32,6 +32,7 @@ Actuellement en Master 1 Cybersecurity Management à l'ECE Paris, je recherche u
 | Projet | Domaine | Outils |
 |---|---|---|
 | [Attaque Man-in-the-Middle par empoisonnement ARP](project-mitm.md) | Sécurité offensive | Kali Linux, ARP spoofing, Wireshark |
+| [Pipeline CI/CD avec Jenkins, Docker et tests automatisés](projet-jenkins-pipeline.md) | DevOps | Jenkins, Docker, Groovy |
 | [Exploitation de vulnérabilités web sur DVWA](projet-dvwa.md) | Sécurité applicative | Burp Suite, DVWA |
 | [Configuration d'un pare-feu réseau avec iptables](projet-iptables.md) | Sécurité réseau | iptables, Kali Linux |
 | [Segmentation réseau par VLAN sur commutateur Cisco](projet-packet-tracer.md) | Administration réseau | Cisco Packet Tracer, VLAN |
