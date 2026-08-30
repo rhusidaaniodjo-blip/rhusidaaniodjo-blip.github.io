@@ -1,4 +1,5 @@
 # Déploiement d'un réseau Ethereum privé multi-nœuds
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square) ![ARP Spoofing](https://img.shields.io/badge/ARP%20Spoofing-D83B01?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 **Domaine :** Infrastructure blockchain / Administration réseau
 **Environnement :** Lab personnel — Ubuntu, Geth (go-ethereum) v1.12.0, consensus Clique (Proof-of-Authority)
@@ -87,3 +88,6 @@ Un point pratique observé pendant le déploiement : les erreurs de configuratio
 ## Compétences mobilisées
 
 `Ethereum / Geth (go-ethereum)` `Consensus Clique (Proof-of-Authority)` `Configuration réseau pair-à-pair` `Console JavaScript Web3` `Administration système Linux`
+
+---
+[← Retour à l'accueil](index.md)
