@@ -36,6 +36,7 @@ Actuellement en Master 1 Cybersecurity Management à l'ECE Paris, je recherche u
 | [Configuration d'un pare-feu réseau avec iptables](projet-iptables.md) | Sécurité réseau | iptables, Kali Linux |
 | [Segmentation réseau par VLAN sur commutateur Cisco](projet-packet-tracer.md) | Administration réseau | Cisco Packet Tracer, VLAN |
 | [Simulation de test d'ingénierie sociale (OSINT & Phishing)](projet-social-engineering.md) | Ingénierie sociale | OSINT, Social-Engineer Toolkit |
+| [Conteneurisation et intégration continue d'une application Flask](projet-flask-cicd.md) | DevOps | Docker, GitHub Actions, Flask |
 | [Déploiement d'un réseau Ethereum privé multi-nœuds](projet-ethereum-prive.md) | Infrastructure blockchain | Geth, Proof-of-Authority |
 | *ACL implementation* | Administration réseau | *à venir* |
 | *Chiffrement symétrique* | Cryptographie | *à venir* |
