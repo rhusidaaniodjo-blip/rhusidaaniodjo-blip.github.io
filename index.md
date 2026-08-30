@@ -40,7 +40,7 @@ Actuellement en Master 1 Cybersecurity Management à l'ECE Paris, je recherche u
 | [Conteneurisation et intégration continue d'une application Flask](projet-flask-cicd.md) | DevOps | Docker, GitHub Actions, Flask |
 | [Déploiement d'un réseau Ethereum privé multi-nœuds](projet-ethereum-prive.md) | Infrastructure blockchain | Geth, Proof-of-Authority |
 | *ACL implementation* | Administration réseau | *à venir* |
-| *Chiffrement symétrique* | Cryptographie | *à venir* |
+| [Chiffrement symétrique sous Linux avec OpenSSL](projet-chiffrement-symetrique.md) | Cryptographie | OpenSSL, AES-256 |
 | *Projet de management* | Gouvernance | *à venir* |
 
 ---
