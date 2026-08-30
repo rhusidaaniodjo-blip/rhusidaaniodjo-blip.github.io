@@ -1,4 +1,5 @@
 # Configuration d'un pare-feu réseau avec iptables
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square) ![ARP Spoofing](https://img.shields.io/badge/ARP%20Spoofing-D83B01?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 **Domaine :** Sécurité réseau / Administration système
 **Environnement :** Lab personnel — Kali Linux (pare-feu), Windows (client)
@@ -55,3 +56,6 @@ Ce TP illustre le principe de **liste blanche** (whitelist) en sécurité résea
 ## Compétences mobilisées
 
 `iptables` `Filtrage réseau stateful` `Politique de sécurité par défaut (whitelist)` `Kali Linux` `Diagnostic réseau (ping, SSH, HTTP)`
+
+---
+[← Retour à l'accueil](index.md)
