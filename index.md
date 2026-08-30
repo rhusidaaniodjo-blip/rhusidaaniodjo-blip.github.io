@@ -10,8 +10,8 @@ Je documente ici mes projets techniques réalisés en formation : sécurité off
 ## Projets
 
 - [Attaque Man-in-the-Middle par empoisonnement ARP](project-mitm.md) — Sécurité offensive, ARP spoofing, Wireshark
-- [DVWA](projet-dvwa.md) 
-- [IPTABLES](projet-iptables.md) 
+- [Exploitation de vulnérabilités web sur DVWA](projet-dvwa.md) — Sécurité applicative, Burp Suite, DVWA
+- [Configuration d'un pare-feu réseau avec iptables](projet-iptables.md) — iptables, filtrage réseau, Kali Linux
 - *ACL implementation — à venir*
 - *Packet Tracer — à venir*
 - *Chiffrement symétrique — à venir*
