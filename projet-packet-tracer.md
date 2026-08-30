@@ -1,4 +1,5 @@
 # Segmentation réseau par VLAN sur commutateur Cisco
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square) ![ARP Spoofing](https://img.shields.io/badge/ARP%20Spoofing-D83B01?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 **Domaine :** Administration réseau
 **Environnement :** Cisco Packet Tracer — commutateur gamme 2950
@@ -61,3 +62,6 @@ Point notable observé pendant les tests : le commutateur lui-même n'est joigna
 ## Compétences mobilisées
 
 `Cisco IOS` `Configuration de VLAN` `Segmentation réseau` `Cisco Packet Tracer` `Diagnostic de connectivité (ping)`
+
+---
+[← Retour à l'accueil](index.md)
