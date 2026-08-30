@@ -8,7 +8,7 @@ Je documente ici mes projets techniques réalisés en formation : sécurité off
 ---
 
 ## Projets
-
+- [Simulation de test d'ingénierie sociale (OSINT & Phishing)](projet-social-engineering.md) — OSINT, Social-Engineer Toolkit, sensibilisation
 - [Attaque Man-in-the-Middle par empoisonnement ARP](project-mitm.md) — Sécurité offensive, ARP spoofing, Wireshark
 - [Exploitation de vulnérabilités web sur DVWA](projet-dvwa.md) — Sécurité applicative, Burp Suite, DVWA
 - [Configuration d'un pare-feu réseau avec iptables](projet-iptables.md) — iptables, filtrage réseau, Kali Linux
