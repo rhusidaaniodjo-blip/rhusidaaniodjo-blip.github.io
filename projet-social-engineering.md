@@ -1,4 +1,5 @@
 # Simulation de test d'ingénierie sociale (OSINT & Phishing)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square) ![ARP Spoofing](https://img.shields.io/badge/ARP%20Spoofing-D83B01?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 **Domaine :** Sécurité offensive / Ingénierie sociale
 **Environnement :** Lab personnel — Kali Linux, Social-Engineer Toolkit (SET)
@@ -50,3 +51,6 @@ Ce projet met en évidence que la sécurité d'une organisation ne se limite pas
 ## Compétences mobilisées
 
 `OSINT` `Social-Engineer Toolkit (SET)` `theHarvester` `metagoofil` `Méthodologie de test d'intrusion` `Sensibilisation à la sécurité`
+
+---
+[← Retour à l'accueil](index.md)
