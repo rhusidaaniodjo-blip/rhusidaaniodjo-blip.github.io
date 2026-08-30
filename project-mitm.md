@@ -1,6 +1,8 @@
-Attaque Man-in-the-Middle par empoisonnement ARP
+# Attaque Man-in-the-Middle par empoisonnement ARP
 
-Domaine : Sécurité offensive / Sécurité réseau Environnement : Lab personnel — Kali Linux (attaquant), Windows (cible), réseau isolé
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square) ![ARP Spoofing](https://img.shields.io/badge/ARP%20Spoofing-D83B01?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+
+**Domaine :** Sécurité offensive / Sécurité réseau Environnement : Lab personnel — Kali Linux (attaquant), Windows (cible), réseau isolé
 
 Contexte et objectif
 
@@ -33,4 +35,6 @@ ARP spoofing Kali Linux Wireshark Analyse de trafic réseau IP forwarding Sécur
 <img width="665" height="633" alt="image" src="https://github.com/user-attachments/assets/40afcddc-e3c8-4e7d-a687-48f58aab0b8f" />
 <img width="755" height="424" alt="image" src="https://github.com/user-attachments/assets/923b09d6-e1cd-4b8c-b692-948231abe641" />
 
+---
+[← Retour à l'accueil](index.md)
 
