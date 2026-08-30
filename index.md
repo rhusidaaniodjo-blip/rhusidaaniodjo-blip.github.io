@@ -41,6 +41,7 @@ Actuellement en Master 1 Cybersecurity Management à l'ECE Paris, je recherche u
 | [Déploiement d'un réseau Ethereum privé multi-nœuds](projet-ethereum-prive.md) | Infrastructure blockchain | Geth, Proof-of-Authority |
 | [Mise en œuvre d'ACL IPv4 sur routeurs Cisco](projet-acl-implementation.md) | Administration réseau | Cisco IOS, ACL, Packet Tracer |
 | [Chiffrement symétrique sous Linux avec OpenSSL](projet-chiffrement-symetrique.md) | Cryptographie | OpenSSL, AES-256 |
+| [DriveSense — Gestion de projet d'une application de livraison intelligente](projet-drivesense-management.md) | Gestion de projet | Lean Canvas, Agile/Scrum, Trello |
 
 ---
 
