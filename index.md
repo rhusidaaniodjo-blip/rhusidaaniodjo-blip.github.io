@@ -47,5 +47,6 @@ Actuellement en Master 1 Cybersecurity Management à l'ECE Paris, je recherche u
 
 ## Contact
 
-**LinkedIn :** Rhusi Daani ODJO
+**LinkedIn :** [Rhusi Daani ODJO](https://www.linkedin.com/in/rhusi-daani-odjo-107a4a391)
 **Email :** rhusidaaniodjo@gmail.com
+
