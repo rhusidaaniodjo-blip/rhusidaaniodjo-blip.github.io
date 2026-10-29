@@ -31,6 +31,8 @@ Actuellement en Master 1 Cybersecurity Management à l'ECE Paris, je recherche u
 
 | Projet | Domaine | Outils |
 |---|---|---|
+| [Lab Debian sécurisé](projet-lab-debian-securise) | Debian, SSH, UFW, Bash, cron | Serveur Linux durci de zéro |
+| [Lab VLAN, routage et ACL](projet-lab-vlan-routage-acl) | Packet Tracer, VLAN, ACL | Segmentation et filtrage réseau |
 | [Attaque Man-in-the-Middle par empoisonnement ARP](project-mitm.md) | Sécurité offensive | Kali Linux, ARP spoofing, Wireshark |
 | [Pipeline CI/CD avec Jenkins, Docker et tests automatisés](projet-jenkins-pipeline.md) | DevOps | Jenkins, Docker, Groovy |
 | [Exploitation de vulnérabilités web sur DVWA](projet-dvwa.md) | Sécurité applicative | Burp Suite, DVWA |
