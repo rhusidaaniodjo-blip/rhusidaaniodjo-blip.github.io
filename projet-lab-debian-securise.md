@@ -38,26 +38,30 @@ Après installation, toute la VM tourne avec environ **283 Mo de RAM utilisés**
 - Création d'un dossier `/srv/direction` réservé au groupe : propriétaire `root`, groupe `direction`, droits `770` (`chown`, `chmod`).
 - Test : Marie (membre du groupe) peut créer un fichier ; mon compte, non membre, reçoit « Permission non accordée ». C'est le principe du **moindre privilège**.
 
-> 📸 **Capture à insérer ici :** `ls -ld /srv/direction` (droits `drwxrwx---`) et le refus d'accès.
+> <img width="1080" height="1350" alt="slide-02" src="https://github.com/user-attachments/assets/4576bdd9-2f79-435f-af83-4135c84dacf7" />
+
 
 ### 2. Surveillance des services et des connexions
 - `systemctl status ssh` : service actif, 8 Mo de RAM.
 - `last` : lecture de l'historique des connexions (distinction `pts` pour SSH ou `su`, `tty` pour la console).
 
-> 📸 **Capture à insérer ici :** sortie de `last -n 10`.
+> <img width="1063" height="451" alt="2" src="https://github.com/user-attachments/assets/9c3d9b68-f7a6-4d65-b4f0-1bf2dc724542" />
+
 
 ### 3. Pare-feu UFW
 - Politique par défaut : **tout refuser en entrée**, autoriser la sortie.
 - Seul le port `22/tcp` (SSH) est ouvert, règle ajoutée **avant** l'activation pour ne pas me couper de la machine.
 
-> 📸 **Capture à insérer ici :** `ufw status verbose`.
+> <img width="1080" height="1350" alt="slide-04" src="https://github.com/user-attachments/assets/b1904ebd-ee29-4eb7-b7fc-f4a8b9dac119" />
+
 
 ### 4. Accès SSH par clé, sans mot de passe
 - Génération d'une paire de clés `ed25519` sur mon poste, dépôt de la clé publique dans `~/.ssh/authorized_keys` (droits `700` sur le dossier, `600` sur le fichier).
 - Désactivation de l'authentification par mot de passe (`PasswordAuthentication no`, `KbdInteractiveAuthentication no`), config validée avec `sshd -t` puis rechargée.
 - Vérification : une connexion sans clé est refusée avec `Permission denied (publickey)`.
 
-> 📸 **Capture à insérer ici :** le refus `Permission denied (publickey)`.
+> <img width="1080" height="1350" alt="slide-06" src="https://github.com/user-attachments/assets/95d222cd-2dfb-459b-88d9-9ab91ff39e5c" />
+
 
 ### 5. Sauvegarde automatisée
 - Script Bash `sauvegarde.sh` qui archive `/srv/direction` dans `~/sauvegardes` avec la date (`tar`).
@@ -74,7 +78,8 @@ tar -czf ~/sauvegardes/direction-$DATE.tar.gz /srv/direction
 echo "Sauvegarde créée : direction-$DATE.tar.gz"
 ```
 
-> 📸 **Capture à insérer ici :** `crontab -l` et le contenu de `journal.log`.
+> <img width="1345" height="220" alt="3" src="https://github.com/user-attachments/assets/9c15d95a-d253-4fea-b638-c642159386c2" />
+
 
 ### 6. Instantané
 Instantané VirtualBox `Debian-base-OK` pris une fois la configuration validée, pour pouvoir revenir en arrière en cas d'erreur.
