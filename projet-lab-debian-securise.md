@@ -27,9 +27,10 @@ J'ai donc adapté ma méthode plutôt que d'abandonner : **Debian sans interface
 | Réseau | NAT, redirection de port 2222 (hôte) vers 22 (VM) |
 | Accès | SSH depuis PowerShell |
 
-Après installation, toute la VM tourne avec environ **283 Mo de RAM utilisés** sur 967 Mo (`free -h`).
+Après installation, toute la VM tourne avec environ **263 Mo de RAM utilisés** sur 967 Mo (`free -h`).
 
-> 📸 **Capture à insérer ici :** résultat de `free -h` montrant la mémoire utilisée.
+> <img width="585" height="72" alt="4" src="https://github.com/user-attachments/assets/8fad1ddf-9ece-403b-886d-438b4a81cb78" />
+
 
 ## Réalisations
 
